@@ -34,3 +34,16 @@ Learned:
 Example:
 read NAME
 echo $NAME
+## Loops
+
+Learned:
+- for loop
+- repeat tasks automatically
+- use variables inside loops
+
+Example:
+
+for i in 1 2 3
+do
+ echo $i
+done
