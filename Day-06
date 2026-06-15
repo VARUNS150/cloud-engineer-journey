@@ -1,0 +1,18 @@
+# Day 06
+
+## Users and Groups
+
+Commands Practiced:
+- whoami
+- id
+- groups
+
+Learnings:
+- Linux users have unique IDs (UID)
+- Groups help manage permissions
+- root is the superuser
+- sudo provides elevated privileges
+
+Real World Connection:
+- EC2 login uses Linux users
+- Permissions depend on users and groups
