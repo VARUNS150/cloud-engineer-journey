@@ -30,3 +30,18 @@ sudo service nginx restart
 ## Website Location
 
 /var/www/html
+
+## Nginx Configuration
+
+Main Config:
+/etc/nginx/nginx.conf
+
+Important Folders:
+- sites-available
+- sites-enabled
+
+Server Block:
+Maps domain to website files.
+
+Reverse Proxy:
+Browser -> Nginx -> Application
