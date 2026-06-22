@@ -68,3 +68,45 @@ sudo docker build -t varun-nginx:v1 .
 sudo docker images
 
 sudo docker run -d -p 8080:80 --name mysite varun-nginx:v1
+
+
+## Docker Layers and Cache
+
+Image = Collection of layers
+
+Commands:
+
+docker history varun-nginx:v1
+
+docker build -t varun-nginx:v2 .
+
+docker inspect varun-nginx:v2
+
+docker system df
+
+Understanding:
+
+Layers are cached.
+
+Only changed layers rebuild.
+
+Tags represent versions.
+
+#task commands
+sudo docker history varun-nginx:v1
+
+nano index.html
+
+sudo docker build -t varun-nginx:v2 .
+
+sudo docker images
+
+sudo docker stop mysite
+
+sudo docker rm mysite
+
+sudo docker run -d -p 8080:80 --name mysite varun-nginx:v2
+
+sudo docker inspect varun-nginx:v2
+
+sudo docker system df
