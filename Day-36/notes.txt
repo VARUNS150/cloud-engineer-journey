@@ -1,0 +1,18 @@
+Day 36 - GitHub Actions
+
+Today's Learning:
+- What is GitHub Actions
+- CI/CD basics
+- GitHub Actions architecture
+- Workflows
+- Events
+- Jobs
+- Steps
+- Runners
+
+Practical Work:
+- Created a GitHub Actions workflow
+- Understood the basic YAML structure
+
+Status:
+Completed Day 36
