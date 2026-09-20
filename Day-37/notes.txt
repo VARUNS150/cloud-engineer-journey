@@ -1,0 +1,16 @@
+Day 37 - Workflow Triggers
+
+Today's Learning:
+- GitHub Actions events
+- push event
+- pull_request event
+- workflow_dispatch
+- Scheduled workflows
+- Understanding when a workflow starts
+
+Practical Work:
+- Worked with different workflow triggers
+- Tested workflow execution
+
+Status:
+Completed Day 37
