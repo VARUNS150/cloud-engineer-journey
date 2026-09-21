@@ -1,0 +1,16 @@
+Day 38 - Jobs and Steps
+
+Today's Learning:
+- Jobs in GitHub Actions
+- Steps inside jobs
+- Job execution
+- Step execution
+- Runner environment
+- Commands using run
+
+Practical Work:
+- Created jobs and steps
+- Executed Linux shell commands through GitHub Actions
+
+Status:
+Completed Day 38
