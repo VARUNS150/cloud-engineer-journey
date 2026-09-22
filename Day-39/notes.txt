@@ -1,0 +1,16 @@
+Day 39 - Actions and Marketplace
+
+Today's Learning:
+- What is an Action
+- uses keyword
+- GitHub Marketplace Actions
+- actions/checkout
+- Reusing existing Actions
+- Difference between run and uses
+
+Practical Work:
+- Used actions/checkout
+- Understood how Actions are reused inside workflows
+
+Status:
+Completed Day 39
