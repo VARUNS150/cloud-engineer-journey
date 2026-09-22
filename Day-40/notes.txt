@@ -1,0 +1,17 @@
+Day 40 - Environment Variables and Secrets
+
+Today's Learning:
+- Environment variables
+- env keyword
+- Repository variables
+- GitHub Secrets
+- Why secrets are required
+- Secure handling of credentials
+
+Practical Work:
+- Worked with environment variables
+- Understood GitHub Secrets
+- Learned how secrets are accessed inside workflows
+
+Status:
+Completed Day 40
