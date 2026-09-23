@@ -1,0 +1,17 @@
+Day 41 - CI/CD Practical Workflow
+
+Today's Learning:
+- Continuous Integration
+- Continuous Deployment
+- Build process
+- Test process
+- Deployment process
+- Complete workflow structure
+
+Practical Work:
+- Created a practical CI workflow
+- Connected multiple jobs/steps
+- Tested the complete workflow
+
+Status:
+Completed Day 41
